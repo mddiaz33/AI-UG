@@ -1,0 +1,16 @@
+Missionaries.py Problem Definition 
+
+
+Initial state: (3,3,0 )
+actions: 
+A(Sn, 2,0,0)  A(Sn,2,0,1 )
+A(Sn, 0,1,0)  A(Sn,0,1,1 )
+A(Sn,1,1,0 )  A(Sn, 1,1,1)
+A(Sn, 1,0,0)  A(Sn,1,0,1 )
+A(Sn, 0,2,0)  A(Sn,0,2,1 )
+
+Transition model: See attachment.
+
+Goal test: 0.jpeg
+
+Path cost: 1 per hop
